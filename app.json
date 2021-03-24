@@ -16,17 +16,17 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "",
+      "value": "1734210572:AAHv4jY89BZVOQ-7_MBNZekQ5XQc3QsVMoA",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "1479154",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "6b21cb22818e09132fb904705c31d3a1",
       "required": true
     },
     "AUTH_USERS": {
