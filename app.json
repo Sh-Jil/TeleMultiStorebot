@@ -8,7 +8,7 @@
     "downloader",
     "3"
   ],
-  "repository": "https://github.com/Bfaschat/TeleMultiStorebot",
+  "repository": "https://github.com/Sh-Jil/TeleMultiStorebot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
