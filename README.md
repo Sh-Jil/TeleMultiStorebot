@@ -79,7 +79,7 @@ Easy Installation and Deploy
 
 If you don't want to go through all those hard process then just click the button below and fill the fields as specified.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bfaschat/TeleMultiStorebot/tree/glitch)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sh-Jil/TeleMultiStorebot/tree/glitch)
 
 
 ## Supported Features 
